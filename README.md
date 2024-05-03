@@ -1,5 +1,5 @@
 # Atm-Machine-Design
-This is a low level design for ATM Machine. In this disign we have encorporated the State design pattern
+This is a low-level design for an ATM machine. This code incorporates the State design pattern.
 
 # Features
 1. InsertDebitCard
